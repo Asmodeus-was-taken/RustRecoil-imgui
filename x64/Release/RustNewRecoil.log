@@ -1,0 +1,30 @@
+﻿cl : command line warning D9002: ignoring unknown option '-Xclang'
+cl : command line warning D9002: ignoring unknown option '-flegacy-pass-manager'
+cl : command line warning D9002: ignoring unknown option '-mllvm'
+cl : command line warning D9002: ignoring unknown option '-sub'
+cl : command line warning D9002: ignoring unknown option '-mllvm'
+cl : command line warning D9002: ignoring unknown option '-split'
+cl : command line warning D9002: ignoring unknown option '-mllvm'
+cl : command line warning D9002: ignoring unknown option '-fla'
+cl : command line warning D9002: ignoring unknown option '-mllvm'
+cl : command line warning D9002: ignoring unknown option '-bcf'
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+C:\Users\1\Desktop\rustnewrecoilscript-main\RustNewRecoil\Main.cpp(226,2): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\1\Desktop\rustnewrecoilscript-main\RustNewRecoil\Main.cpp(228,2): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\1\Desktop\rustnewrecoilscript-main\RustNewRecoil\Main.cpp(230,2): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\1\Desktop\rustnewrecoilscript-main\RustNewRecoil\Main.cpp(232,2): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\1\Desktop\rustnewrecoilscript-main\RustNewRecoil\Main.cpp(234,2): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\1\Desktop\rustnewrecoilscript-main\RustNewRecoil\Main.cpp(251,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\1\Desktop\rustnewrecoilscript-main\RustNewRecoil\Main.cpp(374,75): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1889 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RustNewRecoil.vcxproj -> C:\Users\1\Desktop\rustnewrecoilscript-main\RustNewRecoil\x64\Release\RustNewRecoil.exe
